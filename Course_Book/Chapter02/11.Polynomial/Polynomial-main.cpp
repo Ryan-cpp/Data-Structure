@@ -1,6 +1,6 @@
 #include "Polynomial.h"         //**¡ø02 ÏßÐÔ±í**//
 
-int main(int argc, char **argv) {
+int main() {
     Polynomial Pa, Pb;
     int m, n;
 
